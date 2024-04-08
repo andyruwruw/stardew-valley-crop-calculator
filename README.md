@@ -12,6 +12,10 @@
 For my fellow min-maxing farmers.
 </p>
 
+```
+Work in Progress
+```
+
 Crop Calculator is every farmers nifty pocket profit maximizing tool. The calculator takes into account the season, days left in season, farmer level and professions to inform you which seeds you should buy for the greatest return on investment.
 
 I've been using a third-party tool for a while now but it's frustrating tabbing out and having to enter in-game details every time such as the day or farming level. So I decided to build it into the menu.
