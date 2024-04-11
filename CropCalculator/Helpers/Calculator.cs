@@ -1,18 +1,13 @@
-﻿using StardewValley;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CropCalculator.CropCalculator.Helpers
+﻿namespace CropCalculator.Helpers
 {
+    /// <summary>
+    /// Aids in calculating crop profits.
+    /// </summary>
     internal class Calculator
     {
-        private bool _enableCrossSeason = true;
-
-        private int _numberOfCrops = 1;
-
+        /// <summary>
+        /// Instantiates a new calculator.
+        /// </summary>
         public Calculator()
         {
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CropCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41eb9694fda1ba18cdf172a2ddadce7c2ca6aeb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CropCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CropCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

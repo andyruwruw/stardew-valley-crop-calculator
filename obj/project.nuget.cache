@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "42KOMghjmie9Gk4ufPd45lvIO9JPCkilWPMdwp23iqcr6N0CnaZ2AsASdxiIbGy+L3SVbrLQVL8py7OiqfcZKw==",
+  "dgSpecHash": "I5vXOppG8xAvQ6UizA/3L874HILwxJGpWzVI4vljGvYWBmlgC/q5X6KdXBa3AHp3g7g89sJcJSJx/eDco+obXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrew\\source\\repos\\CropCalculator\\CropCalculator.csproj",
+  "projectFilePath": "C:\\Users\\Andrew\\source\\repos\\stardew-valley-crop-calculator\\CropCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrew\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512",
     "C:\\Users\\Andrew\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",

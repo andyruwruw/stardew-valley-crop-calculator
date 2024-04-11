@@ -1,0 +1,29 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "spritesheet.tsx": {
+            "dynamicWrapping": true
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Andrew/source/repos/stardew-valley-crop-calculator/photoshop",
+    "last.imagePath": "C:/Users/Andrew/source/repos/stardew-valley-crop-calculator/photoshop/png",
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.tsj *.json)",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 30,
+    "map.tileWidth": 30,
+    "map.width": 29,
+    "openFiles": [
+    ],
+    "project": "spritesheet.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

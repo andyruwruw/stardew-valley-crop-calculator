@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CropCalculator
-build_property.ProjectDir = C:\Users\Andrew\source\repos\CropCalculator\
+build_property.ProjectDir = C:\Users\Andrew\source\repos\stardew-valley-crop-calculator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

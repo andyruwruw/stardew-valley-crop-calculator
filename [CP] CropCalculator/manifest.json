@@ -1,0 +1,14 @@
+{
+  "Name": "CropCalculator CP",
+  "Author": "andyruwruw",
+  "Version": "1.0.0",
+  "Description": "Find out what crops you should plant with your handy pocket calculator!",
+  "UniqueID": "andyruwruw.CropCalculatorCP",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [
+    "GitHub:andyruwruw/CropCalculator"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Format": "1.19",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Minigames/CropCalculator",
+      "FromFile": "assets/Tilesheets/CropCalculator.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Minigames/CropCalculatorFont",
+      "FromFile": "assets/Tilesheets/CropCalculatorFont.png"
+    }
+  ]
+}

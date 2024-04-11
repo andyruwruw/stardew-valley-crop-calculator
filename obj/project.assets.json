@@ -42,11 +42,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrew\\source\\repos\\CropCalculator\\CropCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew\\Source\\Repos\\stardew-valley-crop-calculator\\CropCalculator.csproj",
       "projectName": "CropCalculator",
-      "projectPath": "C:\\Users\\Andrew\\source\\repos\\CropCalculator\\CropCalculator.csproj",
+      "projectPath": "C:\\Users\\Andrew\\Source\\Repos\\stardew-valley-crop-calculator\\CropCalculator.csproj",
       "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrew\\source\\repos\\CropCalculator\\obj\\",
+      "outputPath": "C:\\Users\\Andrew\\Source\\Repos\\stardew-valley-crop-calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
